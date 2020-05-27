@@ -58,7 +58,7 @@ GEM
     ori (0.1.0)
     os (1.1.0)
     paint (2.2.0)
-    rake (12.3.2)
+    rake (12.3.3)
     reline (0.1.4)
       io-console (~> 0.5)
     rspec (3.8.0)
@@ -90,7 +90,7 @@ DEPENDENCIES
   appsec_flow_import!
   faraday
   irbtools
-  rake (~> 12.0)
+  rake (~> 12.3)
   rspec (~> 3.0)
 
 BUNDLED WITH
