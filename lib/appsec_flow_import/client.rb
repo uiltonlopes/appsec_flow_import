@@ -11,10 +11,6 @@ module AppsecFlowImport
       AppsecFlowImport::Vulnerability.new(self)
     end
 
-    def vulnerability_templates
-      AppsecFlowImport::VulnerabilityTemplate.new(self)
-    end
-
     private
 
     def load_base_url_for(environment)
