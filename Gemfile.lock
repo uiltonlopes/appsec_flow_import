@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    appsec_flow_import (0.1.0)
+    appsec_flow_import (0.1.2)
 
 GEM
   remote: https://rubygems.org/
